@@ -3,4 +3,4 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes of files.
 
-remote_clone dev bendi 2
+remote_clone dev bendi 3
